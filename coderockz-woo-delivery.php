@@ -9,15 +9,15 @@
  * that starts the plugin.
  *
  * @link              https://coderockz.com
- * @since             1.0.0
+ * @since             1.0.2
  * @package           Coderockz_Woo_Delivery
  *
  * @wordpress-plugin
- * Plugin Name:       Delivery & Pickup Date Time for WooCommerce
- * Description:       Delivery & Pickup Date Time for WooCommerce is a WooCommerce plugin extension that gives the facility of selecting delivery/pickup date and time on order checkout page. Moreover, you don't need to worry about the styling because the plugin adjusts with your WordPress theme.
- * Version:           1.3.69
- * Author:            CodeRockz
- * Author URI:        https://coderockz.com
+ * Plugin Name:       CF Version of Delivery & Pickup Date Time for WooCommerce
+ * Description:       CF Version of Delivery & Pickup Date Time for WooCommerce is a WooCommerce plugin extension that gives the facility of selecting delivery/pickup date and time on order checkout page. Moreover, you don't need to worry about the styling because the plugin adjusts with your WordPress theme.
+ * Version:           1.0.2
+ * Author:            CodeRockz and a bit of Axyl
+ * Author URI:        https://github.com/axyl/woo-delivery
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       woo-delivery
