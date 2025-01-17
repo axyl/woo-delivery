@@ -1,6 +1,6 @@
 {
-    "name": "craig/woo-delivery",
-    "description": "Craig's Modified Woo-delivery plugin for date work.",
+    "name": "axyl/woo-delivery",
+    "description": "Axyl's Modified Woo-delivery plugin for date work.",
     "type": "wordpress-plugin",
     "license": "gpl2+",
     "authors": [
